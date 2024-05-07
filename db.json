@@ -1,0 +1,54 @@
+{
+  "formFields": [
+    {
+      "key": "user_name",
+      "label": "Name",
+      "type": "text",
+      "maxLength": "50"
+    },
+    {
+      "key": "mobile_no",
+      "label": "Mobile number",
+      "type": "number",
+      "maxLength": "10"
+    },
+    {
+      "key": "email",
+      "label": "Email",
+      "type": "email"
+    }
+  ],
+  "submissions": [
+    {
+      "user_name": "fe",
+      "mobile_no": "54747",
+      "email": "4fgnh",
+      "id": 5
+    },
+    {
+      "user_name": "dfg",
+      "mobile_no": "46478",
+      "email": "fgh",
+      "id": 6
+    },
+    {
+      "user_name": "tgrfcjk",
+      "mobile_no": "948472398",
+      "email": "sdfhgsdgh",
+      "id": 7
+    },
+    {
+      "user_name": "sgs",
+      "mobile_no": "436346",
+      "email": "dfdfhd",
+      "id": 8
+    },
+    {
+      "user_name": "35235252352",
+      "mobile_no": "3325232",
+      "email": "2",
+      "id": 9
+    }
+    
+  ]
+}
